@@ -3,6 +3,8 @@
 ## Description
 This is a postgres data schema consistent with the Open Data Standards for insurance exposure data.
 
+Compliant with: https://github.com/OasisLMF/ODS_OpenExposureData
+
 1. An extension to this database with improved efficiencies, 3NF normalization is on the way.
 
 ## Changes / modifications

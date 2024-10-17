@@ -3,8 +3,7 @@
 ## Description
 This is a postgres data schema consistent with the Open Data Standards for insurance exposure data.
 
-An extension to this database with improved efficiencies, normalization, removal of redundant columns is available under license.
-
+1. An extension to this database with improved efficiencies, 3NF normalization is on the way.
 
 ## Changes / modifications
 These changes were required to create a viable database structure. Often they were not specified in the original ODS schema.

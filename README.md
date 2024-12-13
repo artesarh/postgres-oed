@@ -6,12 +6,6 @@ All original fields from the OED schema are included.
 
 Compliant with: https://github.com/OasisLMF/ODS_OpenExposureData
 
-1. An extension to this database with improved efficiencies
-   
-## Roadmap
-This is not an ideal schema. On the roadmap is a 3NF schema with lesser number of columns and improved data storage for import and export.
-Procedure to import from OED compatible import file
-
 ## Changes / modifications
 These changes were required to create a viable database structure. Often they were not specified in the original ODS schema.
 
